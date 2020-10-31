@@ -1,0 +1,57 @@
+.inic{
+    background-image: url(https://images.pexels.com/photos/164452/pexels-photo-164452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-position: center;
+    color: white;
+    background-size: cover;
+    height: 600px;
+    text-align: left;
+}
+.inic>h1{
+    padding-left: 1em;
+    padding-top: 1em;
+}
+.inic>p{
+    padding-left: 1.4em;
+    
+}
+#galeria img{
+    width: 100%;
+    height: 300px;
+
+}
+#galeria .col-lg-4{
+    margin:0 !important;
+    padding:20px;
+
+}
+#galeria img:hover{
+    border: 5px solid #ffffff;
+}
+.gal{
+    background-color:#EEDFD8;
+}
+  .carousel {
+    width:640px;
+    height:300px;
+    margin-left: 27%;
+}   
+.part1{
+float: left;
+width: 50%;
+
+
+}
+.part1>img{
+    width: 100%;
+    height: 500px;
+}
+
+.part2{
+    float: right;
+    width: 50%;
+    padding-left: 2em;
+    text-align: center;
+}
+.conteiner{
+    background-color:#EEDFD8;
+}
